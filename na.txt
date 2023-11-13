@@ -1,5 +1,7 @@
-hoi gi hoi
+tải về: git clone link
+thêm vô: git commit -am "note"
+//thêm 1 file vừa tạo mới: git add .
+thêm: git commit -m "note"   ///
+Đẩy lên: git push
+Đồng bộ: git pull
 
-00121313
-bbbbb
-34333
