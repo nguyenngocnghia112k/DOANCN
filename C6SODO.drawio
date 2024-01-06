@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-06T04:07:28.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZVgA8EvHKSgNviWbSIS_" version="22.1.16" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-06T04:13:08.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Y_O5aY_TMbPFZ6l-D3by" version="22.1.16" type="github" pages="6">
   <diagram name="CongTac7" id="9GICFyi6PsjHS701e6oy">
     <mxGraphModel dx="1450" dy="1867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8341,7 +8341,7 @@
             <mxPoint x="1955" y="1056" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nVS5HEKvNaFyp7ThdWrz-179" value="Chọn hóa đơn" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="nVS5HEKvNaFyp7ThdWrz-179" value="Nhập thông tin&lt;br&gt;hóa đơn" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1681" y="1238" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nVS5HEKvNaFyp7ThdWrz-180" value="Nhấn thanh toán" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
