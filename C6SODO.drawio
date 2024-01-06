@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-06T03:30:18.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="YJ6utPNk-cWcjWzUgEY3" version="22.1.16" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-06T03:34:06.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_2YACYNSmL1NuzoLUIGh" version="22.1.16" type="github" pages="6">
   <diagram name="CongTac7" id="9GICFyi6PsjHS701e6oy">
     <mxGraphModel dx="1450" dy="1867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7622,10 +7622,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nVS5HEKvNaFyp7ThdWrz-2" value="Nhập thông tin NV" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-145" y="-165" width="120" height="60" as="geometry" />
+          <mxGeometry x="-145" y="-115" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nVS5HEKvNaFyp7ThdWrz-3" value="Nhấn thêm" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-145" y="-51" width="120" height="60" as="geometry" />
+          <mxGeometry x="-145" y="-24" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nVS5HEKvNaFyp7ThdWrz-4" value="Ktra Rỗng" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-145" y="67" width="120" height="60" as="geometry" />
@@ -7691,16 +7691,25 @@
           <mxGeometry x="63" y="-31" width="38" height="31" as="geometry" />
         </mxCell>
         <mxCell id="nVS5HEKvNaFyp7ThdWrz-19" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="336" y="70" width="56" height="44" as="geometry" />
+          <mxGeometry x="311" y="73" width="56" height="44" as="geometry" />
         </mxCell>
         <mxCell id="nVS5HEKvNaFyp7ThdWrz-20" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="375" y="-36.5" width="38" height="31" as="geometry" />
+          <mxGeometry x="342" y="-36.5" width="38" height="31" as="geometry" />
         </mxCell>
         <mxCell id="nVS5HEKvNaFyp7ThdWrz-21" value="Thông báo&amp;nbsp;&lt;br&gt;thành công" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="447" y="62" width="120" height="60" as="geometry" />
+          <mxGeometry x="407" y="65" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nVS5HEKvNaFyp7ThdWrz-22" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="392" y="94" width="44" height="31" as="geometry" />
+          <mxGeometry x="369" y="94" width="44" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="nVS5HEKvNaFyp7ThdWrz-23" value="Hiển thị&amp;nbsp;&lt;br&gt;danh sách NV" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="407" y="158" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nVS5HEKvNaFyp7ThdWrz-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nVS5HEKvNaFyp7ThdWrz-21" target="nVS5HEKvNaFyp7ThdWrz-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="323" y="177" as="sourcePoint" />
+            <mxPoint x="373" y="127" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
