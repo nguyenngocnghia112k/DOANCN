@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T10:16:44.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Q6KQfiz_dteVFhtWDTzq" version="22.1.17" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-08T11:17:32.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5SdDa2EJBWFidhwd2KR4" version="22.1.17" type="github" pages="6">
   <diagram name="CongTac7" id="9GICFyi6PsjHS701e6oy">
-    <mxGraphModel dx="1450" dy="1867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="2153" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -818,13 +818,13 @@
           <mxGeometry x="4679" y="-543" width="111" height="31" as="geometry" />
         </mxCell>
         <mxCell id="ZXjq7YF-VRbaLjKNL6pb-78" value="4.DLRong" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="4322" y="-609" width="94" height="31" as="geometry" />
+          <mxGeometry x="4305" y="-604" width="94" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="ZXjq7YF-VRbaLjKNL6pb-79" value="10.Hiển thị trang chủ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="4319" y="-582" width="176" height="31" as="geometry" />
+        <mxCell id="ZXjq7YF-VRbaLjKNL6pb-79" value="10.Hiển thị trang thông tin cá nhân" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="4267" y="-582" width="281" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="ZXjq7YF-VRbaLjKNL6pb-80" value="13.Hiển thị trang CN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="4320" y="-554" width="171" height="31" as="geometry" />
+        <mxCell id="ZXjq7YF-VRbaLjKNL6pb-80" value="13.Hiển thị trang TTTK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="4270" y="-558" width="189" height="31" as="geometry" />
         </mxCell>
         <UserObject label="8.Return" link="9.Return" id="ZXjq7YF-VRbaLjKNL6pb-81">
           <mxCell style="text;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
